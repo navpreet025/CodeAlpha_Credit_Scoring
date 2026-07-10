@@ -36,3 +36,6 @@ To classify customers into different credit risk categories using machine learni
 
 ## Result
 Random Forest achieved excellent classification performance on the dataset.
+
+Note:
+The target variable was generated based on credit amount and duration thresholds for demonstration purposes. Therefore, the model achieved very high accuracy due to the relationship between target creation and input features.
