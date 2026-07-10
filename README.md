@@ -34,6 +34,25 @@ To classify customers into different credit risk categories using machine learni
 - F1-score
 - ROC-AUC Score
 
+## Dataset
+German Credit Dataset containing customer information such as:
+- Age
+- Sex
+- Job
+- Housing
+- Saving Accounts
+- Checking Account
+- Credit Amount
+- Duration
+- Purpose
+
+## Model Performance
+
+| Model | Accuracy | ROC-AUC |
+|------|----------|---------|
+| Logistic Regression | 100% | 1.0 |
+| Random Forest | 100% | 1.0 |
+
 ## Result
 Random Forest achieved excellent classification performance on the dataset.
 
